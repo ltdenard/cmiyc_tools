@@ -1,0 +1,9 @@
+[base]
+mail_relay=smtp.gmail.com
+mail_port=587
+mail_tls=true
+mail_username=
+mail_password=
+gpg_password_file=/path/to/gpg_password.txt
+gpg_cmd_path=/usr/bin/gpg
+gpg_key_file_path=/path/to/my-key.pub.asc
